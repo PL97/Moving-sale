@@ -20,7 +20,7 @@
 |11| <img src="figs/1502848606.jpg" width="100"/> | 桌子-浅黄色 (有些许磨损, 很结实，桌子腿手腕粗, 可放两个27‘’显示器) | $7 |&check;|
 |12| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
 |13| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
-|14| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$20 / 2:$5 |&check;|
+|14| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
 |15| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
 |16| <img src="figs/2024-07-12_18-54.png" width="100"/> | 電腦 (一個主機兩個顯示屏，比較新 網上價格參考：顯卡 GeForce RTX 2080 SUPER 649🔪 内存 Corsair Dominator Platinum RGB 32GB (2x16GB) 119🔪 主機殼  Raidmax  X603 89🔪 處理器 AMD Ryzen 9 3900XT 355🔪 固態硬盤 Crucial R1 1TB NAND 3D Internal SSD 109🔪 電源 GAMEMAX Power 89🔪)|   $600 |&check;|
 |17| <img src="figs/2024-07-12_18-54_1.png" width="100"/> | 自行車 |   $30 |&check;|
