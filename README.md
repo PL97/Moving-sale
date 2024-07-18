@@ -24,11 +24,7 @@
 |15| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
 |16| <img src="figs/2024-07-12_18-54.png" width="100"/> | 電腦 (一個主機兩個顯示屏，比較新 網上價格參考：顯卡 GeForce RTX 2080 SUPER 649🔪 内存 Corsair Dominator Platinum RGB 32GB (2x16GB) 119🔪 主機殼  Raidmax  X603 89🔪 處理器 AMD Ryzen 9 3900XT 355🔪 固態硬盤 Crucial R1 1TB NAND 3D Internal SSD 109🔪 電源 GAMEMAX Power 89🔪)|   $600 |&check;|
 |17| <img src="figs/2024-07-12_18-54_1.png" width="100"/> | 自行車 |   $30 |&cross;|
-<<<<<<< HEAD
 |18| <img src="figs/836476809.jpg" width="100"/> | 显示器 (asus mx34vq 显示器 2k 100hz 34寸宽屏 自带音响和带无线充电 ) |   $400 |&check;|
-=======
->>>>>>> 49eb2e41ec55b37a814fca5e6cc30c2abcf55cea
-----------------------------------------------------------------
 
 
 ### 联系方式
@@ -50,7 +46,7 @@
 编号18， 请联系
 
 
-<img src="figs/1136063567.jpg" width="100"/> 
+<img src="figs/339188172.jpg" width="100"/> 
 
 
 ### 交付
