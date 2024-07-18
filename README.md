@@ -11,7 +11,7 @@
 |4| <img src="figs/1608653033.jpg" width="100"/> | 猫抓版 (基本全新) |    $15 |&check;|
 |4| <img src="figs/1919758945.jpg" width="100"/> | 续上图 |    - |-|
 |5| <img src="figs/1719484373.jpg" width="100"/> | 小型健身器材 (瑜珈垫， 泡沫轴x2, 12lb哑铃，15lb 哑铃，俯卧撑辅助，可单卖) |   40 |&check;|
-|6| <img src="figs/81swpXrZVhL._AC_SX466_.jpg" width="100"/>| 24'' 显示器 (超窄边框)[Amazon link](https://www.amazon.com/dp/B07CK4W58Y?ref=ppx_yo2ov_dt_b_product_details&th=1)| $50 |&cross;|
+|6| <img src="figs/81swpXrZVhL._AC_SX466_.jpg" width="100"/>| 24'' 显示器 (超窄边框)[Amazon link](https://www.amazon.com/dp/B07CK4W58Y?ref=ppx_yo2ov_dt_b_product_details&th=1)| $60 |&check;|
 |7| <img src="figs/691832423.jpg" width="100"/> | 空气净化器 （比较新, 紫外线杀菌, 可过滤宠物过敏源）[amazon link](https://www.amazon.com/dp/B00895ICIK?psc=1&ref=ppx_yo2ov_dt_b_product_details) |   50 |&check;|
 |8| | 全新A4纸 | $4 |&check;|
 |9| <img src="figs/1447377112.jpg" width="100"/> | 桌子-深褐色 (很结实，桌子腿手腕粗, 可放两个27‘’显示器) | $20 |&check;|
@@ -24,7 +24,10 @@
 |15| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
 |16| <img src="figs/2024-07-12_18-54.png" width="100"/> | 電腦 (一個主機兩個顯示屏，比較新 網上價格參考：顯卡 GeForce RTX 2080 SUPER 649🔪 内存 Corsair Dominator Platinum RGB 32GB (2x16GB) 119🔪 主機殼  Raidmax  X603 89🔪 處理器 AMD Ryzen 9 3900XT 355🔪 固態硬盤 Crucial R1 1TB NAND 3D Internal SSD 109🔪 電源 GAMEMAX Power 89🔪)|   $600 |&check;|
 |17| <img src="figs/2024-07-12_18-54_1.png" width="100"/> | 自行車 |   $30 |&cross;|
+<<<<<<< HEAD
 |18| <img src="figs/836476809.jpg" width="100"/> | 显示器 (asus mx34vq 显示器 2k 100hz 34寸宽屏 自带音响和带无线充电 ) |   $400 |&check;|
+=======
+>>>>>>> 49eb2e41ec55b37a814fca5e6cc30c2abcf55cea
 ----------------------------------------------------------------
 
 
