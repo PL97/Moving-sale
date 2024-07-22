@@ -8,7 +8,8 @@
 |1| <img src="figs/1455159187.jpg" width="100"/> | 烧水壶 |    $10 |&cross;|
 |2| <img src="figs/1334923075.jpg" width="100"/> | 加湿器 （小, 氛围灯, 适合办公桌上使用） |    $7 |&check;|
 |3| <img src="figs/652802202.jpg" width="100"/> | 加湿器 （中, 氛围灯） |    $10 |&check;|
-|4| <img src="figs/1528874768.jpg" width="100"/> | 置物架 (金属架构，可拆卸，附安装说明) |    $15 |&check;|
+|4| <img src="figs/1528874768.jpg" width="100"/> | 置物架 (1米多高, 四层, 金属架构，可拆卸，附安装说明) |    $15 |&check;|
+|4| <img src="figs/2024-07-22_12-29.png" width="100"/> | 续上图  |    - |-|
 |5| <img src="figs/1574341679.jpg" width="100"/> | 吉他 (基本没怎么用过, 送吉他包，拨片，替换弦) |    $30 |&check;|
 |6| <img src="figs/1608653033.jpg" width="100"/> | 猫抓版 (基本全新) |    $15 |&check;|
 |6| <img src="figs/1919758945.jpg" width="100"/> | 续上图 |    - |-|
