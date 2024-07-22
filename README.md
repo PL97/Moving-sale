@@ -23,7 +23,7 @@
 |14| <img src="figs/683069237.jpg" width="100"/> | 三明治机 (适合加工全（难）麦（吃）面包)| $12 |&check;|
 |15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&check;|
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $10 |&check;|
-|17| <img src="figs/26704616.jpg" width="100"/> | 电子琴 |   $20 |&check;|
+|17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&check;|
 |18| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
 |19| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
 |20| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
