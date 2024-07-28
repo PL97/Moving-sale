@@ -25,7 +25,7 @@
 |15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&check;|
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $8 |&check;|
 |17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&check;|
-|18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/Keurig-Single-Serve-K-Cup-Special/dp/B07J5FV7WS/ref=sr_1_53?crid=25U8WJO1FTFQI&dib=eyJ2IjoiMSJ9.g27YYjeMm8_zv91LisfvKT83PLLgiw3LZCd2eITDKYvwd9Iu23gyQOSZ491NjaJGiOj_wxlh7JaGxTeanZ_GvgZHbobKzXMDvVt1Up0ZD4CJ-yM5IaXCs5Uqiyo4ztwf6gU6e8QEpCdwFb5p_dY_zzbpou7ERPQqg4RPORlGDlYsxpFSCWARD8bQXsRcFXUSpmeROmzSPaJegIo725XKfucMWmWbZlVEDtP-jcjewCrrevObCTxiyHlZTIRnpySKcXiANWQSs8rpvsIac4vPubVGlsD6DmoEuoX9XYvD6Xs.rbEt0li1ul-ik4iEchw5OmCxYorniFVgGneQAeW0Ut8&dib_tag=se&keywords=coffee%2Bmaker%2Bkeurig&qid=1722194848&sprefix=coffee%2Bmaker%2Bkeurig%2Caps%2C113&sr=8-53&th=1) 原价200+ |   $30 |&check;|
+|18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/dp/B07C1XC3GF?ref=emc_p_m_5_i_atc) 原价 ~$200 |   $30 |&check;|
 |19| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
 |20| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
 |21| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
