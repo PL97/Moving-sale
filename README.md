@@ -25,32 +25,33 @@
 |15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&check;|
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $8 |&check;|
 |17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&check;|
-|18| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
-|19| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
-|20| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
-|21| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
-|22| <img src="figs/2024-07-12_18-54.png" width="100"/> | 電腦 (一個主機兩個顯示屏，比較新 網上價格參考：顯卡 GeForce RTX 2080 SUPER 649🔪 内存 Corsair Dominator Platinum RGB 32GB (2x16GB) 119🔪 主機殼  Raidmax  X603 89🔪 處理器 AMD Ryzen 9 3900XT 355🔪 固態硬盤 Crucial R1 1TB NAND 3D Internal SSD 109🔪 電源 GAMEMAX Power 89🔪)|   $600 |&check;|
-|23| <img src="figs/2024-07-12_18-54_1.png" width="100"/> | 自行車 |   $30 |&cross;|
-|24| <img src="figs/836476809.jpg" width="100"/> | 显示器 (asus mx34vq 显示器 2k 100hz 34寸宽屏 自带音响和带无线充电 ) |   $400 |&check;|
+|18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/Keurig-Single-Serve-K-Cup-Special/dp/B07J5FV7WS/ref=sr_1_53?crid=25U8WJO1FTFQI&dib=eyJ2IjoiMSJ9.g27YYjeMm8_zv91LisfvKT83PLLgiw3LZCd2eITDKYvwd9Iu23gyQOSZ491NjaJGiOj_wxlh7JaGxTeanZ_GvgZHbobKzXMDvVt1Up0ZD4CJ-yM5IaXCs5Uqiyo4ztwf6gU6e8QEpCdwFb5p_dY_zzbpou7ERPQqg4RPORlGDlYsxpFSCWARD8bQXsRcFXUSpmeROmzSPaJegIo725XKfucMWmWbZlVEDtP-jcjewCrrevObCTxiyHlZTIRnpySKcXiANWQSs8rpvsIac4vPubVGlsD6DmoEuoX9XYvD6Xs.rbEt0li1ul-ik4iEchw5OmCxYorniFVgGneQAeW0Ut8&dib_tag=se&keywords=coffee%2Bmaker%2Bkeurig&qid=1722194848&sprefix=coffee%2Bmaker%2Bkeurig%2Caps%2C113&sr=8-53&th=1) 原价200+ |   $30 |&check;|
+|19| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
+|20| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
+|21| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
+|22| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
+|23| <img src="figs/2024-07-12_18-54.png" width="100"/> | 電腦 (一個主機兩個顯示屏，比較新 網上價格參考：顯卡 GeForce RTX 2080 SUPER 649🔪 内存 Corsair Dominator Platinum RGB 32GB (2x16GB) 119🔪 主機殼  Raidmax  X603 89🔪 處理器 AMD Ryzen 9 3900XT 355🔪 固態硬盤 Crucial R1 1TB NAND 3D Internal SSD 109🔪 電源 GAMEMAX Power 89🔪)|   $600 |&check;|
+|24| <img src="figs/2024-07-12_18-54_1.png" width="100"/> | 自行車 |   $30 |&cross;|
+|25| <img src="figs/836476809.jpg" width="100"/> | 显示器 (asus mx34vq 显示器 2k 100hz 34寸宽屏 自带音响和带无线充电 ) |   $400 |&check;|
 
 
 ### 联系方式
 
 ***添加时备注收二手以及物品编号***
 
-编号1-17， 请联系
+编号1-18， 请联系
 
 
 <img src="figs/307744931.jpg" width="100"/> 
 
 
 
-编号18-23， 请联系
+编号19-24， 请联系
 
 
 <img src="figs/1136063567.jpg" width="100"/> 
 
-编号24， 请联系
+编号25， 请联系
 
 
 <img src="figs/339188172.jpg" width="100"/> 
