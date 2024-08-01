@@ -22,7 +22,7 @@
 |12| <img src="figs/312021387.jpg" width="100"/> | 续上图 |   -  | - |
 |13| <img src="figs/1502848606.jpg" width="100"/> | 桌子-浅黄色 (有些许磨损, 很结实，桌子腿手腕粗, 可放两个27‘’显示器) | $7 |&check;|
 |14| <img src="figs/683069237.jpg" width="100"/> | 三明治机 (适合加工全（难）麦（吃）面包)| $12 |&check;|
-|15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&check;|
+|15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&cross;|
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $8 |&check;|
 |17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&check;|
 |18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/dp/B07C1XC3GF?ref=emc_p_m_5_i_atc) 原价 ~$200 |   $30 |&check;|
