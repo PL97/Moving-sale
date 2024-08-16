@@ -7,13 +7,13 @@
 | -------------| ------------- |:-------------:|:-----:| :---:|
 |1| <img src="figs/1455159187.jpg" width="100"/> | 烧水壶 |    $10 |&cross;|
 |2| <img src="figs/1334923075.jpg" width="100"/> | 加湿器 （小, 氛围灯, 适合办公桌上使用） |    $7 |&check;|
-|3| <img src="figs/652802202.jpg" width="100"/> | 加湿器 （中, 氛围灯） |    $10 |&check;|
+|3| <img src="figs/652802202.jpg" width="100"/> | 加湿器 （中, 氛围灯） |    $10 |&cross;|
 |4| <img src="figs/1528874768.jpg" width="100"/> | 置物架 (很新, 1米多高, 四层, 金属架构，可拆卸，附安装说明) |    $20 |&check;|
 |4| <img src="figs/2024-07-22_12-29.png" width="100"/> | 续上图  |    - |-|
-|5| <img src="figs/1574341679.jpg" width="100"/> | 吉他 (基本没怎么用过, 送吉他包，拨片，替换弦) |    $30 |&check;|
+|5| <img src="figs/1574341679.jpg" width="100"/> | 吉他 (基本没怎么用过, 送吉他包，拨片，替换弦) |    $30 |&cross;|
 |6| <img src="figs/1608653033.jpg" width="100"/> | 猫抓版 (基本全新) |    $15 |&check;|
 |6| <img src="figs/1919758945.jpg" width="100"/> | 续上图 |    - |-|
-|7| <img src="figs/1719484373.jpg" width="100"/> | 小型健身器材 (瑜珈垫， 泡沫轴x2, 12lb哑铃，15lb 哑铃，俯卧撑辅助，可单卖) |   $40 |&check;|
+|7| <img src="figs/1719484373.jpg" width="100"/> | 小型健身器材 (瑜珈垫， 泡沫轴紫色, <del>12lb哑铃，15lb 哑铃</del>，俯卧撑辅助，可单卖) |   $15 |&check;|
 |8| <img src="figs/81swpXrZVhL._AC_SX466_.jpg" width="100"/>| 24'' 显示器 (超窄边框)[Amazon link](https://www.amazon.com/dp/B07CK4W58Y?ref=ppx_yo2ov_dt_b_product_details&th=1)| $60 |&cross;|
 |9| <img src="figs/691832423.jpg" width="100"/> | 空气净化器 （比较新, 紫外线杀菌, 可过滤宠物过敏源）[amazon link](https://www.amazon.com/dp/B00895ICIK?psc=1&ref=ppx_yo2ov_dt_b_product_details) |   $50 |&cross;|
 |10| <img src="figs/1356645195.jpg" width="100"/> | 全新A4纸 | $4 |&check;|
@@ -24,7 +24,7 @@
 |14| <img src="figs/683069237.jpg" width="100"/> | 三明治机 (适合加工全（难）麦（吃）面包)| $12 |&check;|
 |15| <img src="figs/1164537399.jpg" width="100"/> | 鞋架 （双层，结实稳固） |   $10 (九月份取, $7) |&cross;|
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $8 |&check;|
-|17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&check;|
+|17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&cross;|
 |18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/dp/B07C1XC3GF?ref=emc_p_m_5_i_atc) 原价 ~$200 |   $30 |&check;|
 |19| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
 |20| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
