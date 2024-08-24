@@ -18,7 +18,7 @@
 |9| <img src="figs/691832423.jpg" width="100"/> | 空气净化器 （比较新, 紫外线杀菌, 可过滤宠物过敏源）[amazon link](https://www.amazon.com/dp/B00895ICIK?psc=1&ref=ppx_yo2ov_dt_b_product_details) |   $50 |&cross;|
 |10| <img src="figs/1356645195.jpg" width="100"/> | 全新A4纸 | $3 |&check;|
 |11| <img src="figs/1447377112.jpg" width="100"/> | 桌子-深褐色 (很结实，桌子腿手腕粗, 可放两个27‘’显示器) | $20 |&cross;|
-|12| <img src="figs/2099488419.jpg" width="100"/> | 宠物笼子 (易清洗，可放小型猫狗) |    $15 |&check;|
+|12| <img src="figs/2099488419.jpg" width="100"/> | 宠物笼子 (易清洗，可放小型猫狗) |    $10 |&check;|
 |12| <img src="figs/312021387.jpg" width="100"/> | 续上图 |   -  | - |
 |13| <img src="figs/1502848606.jpg" width="100"/> | 桌子-浅黄色 (有些许磨损, 很结实，桌子腿手腕粗, 可放两个27‘’显示器) | $7 |&check;|
 |14| <img src="figs/683069237.jpg" width="100"/> | 三明治机 (适合加工全（难）麦（吃）面包)| $10 |&check;|
@@ -29,8 +29,8 @@
 |19| <img src="figs/1175625527.jpg" width="100"/> | 可折叠床架 (full size) |   $30 |&cross;|
 |20| <img src="figs/544386839.jpg" width="100"/> | 落地灯 (可拆卸带原包装, 额外送两个替换灯泡) |   $15 |&check;|
 |21| <img src="figs/505591842.jpg" width="100"/> | 储物柜 |   $5 |&cross;|
-|22| <img src="figs/310998581.jpg" width="100"/> | 风扇 |   $15 |&check;|
-|23| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | [电风扇](https://www.amazon.com/Honeywell-Turbo-Force-Oscillating-HT-906/dp/B00B4BJR58/ref=sr_1_7?crid=3AWJFWKGK5CCN&dib=eyJ2IjoiMSJ9.JbJ_MteEO8Iiyf-4YONEnGDSKczp3sroqA6215J4fMxEmTZS6PcfyCzdnse_v6dzOUNHnrPUgTFSgru6RbOo_xJhc0TD774Faiwyvds6oHtqsGx6USIQfA92H9M8BLs2WWv0OJmfjKR0XwcuZwV8gFMr1n2iT1y_skRyhjrm12H_Y7bqIVoqnLEYli8-x2MmwVfFSyV1SL6Pezw2PKox9PwdrmgrDogd2WhRgzmpG9LoQoZSC8NQHbATcJA-JEagib8csnt2WKaR68bDHwKzhUETtDQDWHbEu7X7he8nGbY.eOMHJKSaGahHQGtDuSrsGaByEdEkzrWwBWZxFrqOZYo&dib_tag=se&keywords=fan+small+honeywell&qid=1724526213&sprefix=fan+small+honyu%2Caps%2C116&sr=8-7) |   $10 |&check;|
+|22| <img src="figs/310998581.jpg" width="100"/> | 电风扇 [amazon link](https://www.amazon.com/Honeywell-Turbo-Force-Oscillating-HT-906/dp/B00B4BJR58/ref=sr_1_7?crid=3AWJFWKGK5CCN&dib=eyJ2IjoiMSJ9.JbJ_MteEO8Iiyf-4YONEnGDSKczp3sroqA6215J4fMxEmTZS6PcfyCzdnse_v6dzOUNHnrPUgTFSgru6RbOo_xJhc0TD774Faiwyvds6oHtqsGx6USIQfA92H9M8BLs2WWv0OJmfjKR0XwcuZwV8gFMr1n2iT1y_skRyhjrm12H_Y7bqIVoqnLEYli8-x2MmwVfFSyV1SL6Pezw2PKox9PwdrmgrDogd2WhRgzmpG9LoQoZSC8NQHbATcJA-JEagib8csnt2WKaR68bDHwKzhUETtDQDWHbEu7X7he8nGbY.eOMHJKSaGahHQGtDuSrsGaByEdEkzrWwBWZxFrqOZYo&dib_tag=se&keywords=fan+small+honeywell&qid=1724526213&sprefix=fan+small+honyu%2Caps%2C116&sr=8-7) |   $15 |&check;|
+|23| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | 电风扇 |   $10 |&check;|
 |24| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
 |25| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
 |26| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
