@@ -26,11 +26,11 @@
 |16| <img src="figs/120134422.jpg" width="100"/> | 折叠椅子 （无磕损，结实耐用） |   $8 |&check;|
 |17| <img src="figs/26704616.jpg" width="100"/> | Yamaha 电子琴 |   $20 |&cross;|
 |18| <img src="figs/1446334553.jpg" width="100"/> | 咖啡机 [amazon link](https://www.amazon.com/dp/B07C1XC3GF?ref=emc_p_m_5_i_atc) 原价 ~$200 |   $30 |&check;|
-|19| <img src="figs/1175625527.jpg" width="100"/> | 可折叠床架 (full size) |   $30 |&check;|
+|19| <img src="figs/1175625527.jpg" width="100"/> | 可折叠床架 (full size) |   $30 |&cross;|
 |20| <img src="figs/544386839.jpg" width="100"/> | 落地灯 (可拆卸带原包装, 额外送两个替换灯泡) |   $15 |&check;|
-|21| <img src="figs/505591842.jpg" width="100"/> | 储物柜 |   $7 |&check;|
+|21| <img src="figs/505591842.jpg" width="100"/> | 储物柜 |   $5 |&cross;|
 |22| <img src="figs/310998581.jpg" width="100"/> | 风扇 |   $15 |&check;|
-|23| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | (https://www.amazon.com/Honeywell-Turbo-Force-Oscillating-HT-906/dp/B00B4BJR58/ref=sr_1_7?crid=3AWJFWKGK5CCN&dib=eyJ2IjoiMSJ9.JbJ_MteEO8Iiyf-4YONEnGDSKczp3sroqA6215J4fMxEmTZS6PcfyCzdnse_v6dzOUNHnrPUgTFSgru6RbOo_xJhc0TD774Faiwyvds6oHtqsGx6USIQfA92H9M8BLs2WWv0OJmfjKR0XwcuZwV8gFMr1n2iT1y_skRyhjrm12H_Y7bqIVoqnLEYli8-x2MmwVfFSyV1SL6Pezw2PKox9PwdrmgrDogd2WhRgzmpG9LoQoZSC8NQHbATcJA-JEagib8csnt2WKaR68bDHwKzhUETtDQDWHbEu7X7he8nGbY.eOMHJKSaGahHQGtDuSrsGaByEdEkzrWwBWZxFrqOZYo&dib_tag=se&keywords=fan+small+honeywell&qid=1724526213&sprefix=fan+small+honyu%2Caps%2C116&sr=8-7)[电风扇] |   $10 |&check;|
+|23| <img src="figs/2024-07-12_18-55_3.png" width="100"/> | [电风扇](https://www.amazon.com/Honeywell-Turbo-Force-Oscillating-HT-906/dp/B00B4BJR58/ref=sr_1_7?crid=3AWJFWKGK5CCN&dib=eyJ2IjoiMSJ9.JbJ_MteEO8Iiyf-4YONEnGDSKczp3sroqA6215J4fMxEmTZS6PcfyCzdnse_v6dzOUNHnrPUgTFSgru6RbOo_xJhc0TD774Faiwyvds6oHtqsGx6USIQfA92H9M8BLs2WWv0OJmfjKR0XwcuZwV8gFMr1n2iT1y_skRyhjrm12H_Y7bqIVoqnLEYli8-x2MmwVfFSyV1SL6Pezw2PKox9PwdrmgrDogd2WhRgzmpG9LoQoZSC8NQHbATcJA-JEagib8csnt2WKaR68bDHwKzhUETtDQDWHbEu7X7he8nGbY.eOMHJKSaGahHQGtDuSrsGaByEdEkzrWwBWZxFrqOZYo&dib_tag=se&keywords=fan+small+honeywell&qid=1724526213&sprefix=fan+small+honyu%2Caps%2C116&sr=8-7) |   $10 |&check;|
 |24| <img src="figs/2024-07-12_18-55_2.png" width="100"/> | 落地燈 |   $20 |&check;|
 |25| <img src="figs/2024-07-12_18-55_1.png" width="100"/> | 臺燈 |   1:$15 / 2:$5 |&check;|
 |26| <img src="figs/2024-07-12_18-55.png" width="100"/> | 電競椅 |   $10 |&cross;|
